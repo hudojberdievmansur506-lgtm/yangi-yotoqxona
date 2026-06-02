@@ -1,0 +1,6 @@
+{
+  "name": "GSPI TTJ Portali",
+  "description": "Guliston Davlat Pedagogika Instituti talabalari turar joyini (TTJ) boshqarish va taqsimlash portali. 3 ta yotoqxona, 100 tadan xona va 5 ta foydalanuvchi roli boshqaruvi bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
